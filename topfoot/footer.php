@@ -40,17 +40,6 @@
   <script src="../assets/jquery/jquery.min.js"></script>
   <script src="../assets/bootstrap/js/bootstrap.bundle.min.js"></script>
   
-  <script src="../assets/js/sb-admin-2.min.js"></script>
-
-  <script type="text/javascript">
-    $(function(){
-        $(".datepicker").datepicker({
-            format: 'dd-mm-yyyy',
-            autoclose: true,
-            todayHighlight: true,
-        });
-    });
-  </script>
 
 </body>
 
